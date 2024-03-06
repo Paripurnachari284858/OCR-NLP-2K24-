@@ -1,6 +1,7 @@
 gtts
 streamlit
 pytesseract
+tesseract
 Pillow
 opencv-python-headless
 bcrypt
